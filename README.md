@@ -14,11 +14,11 @@
 **Button Control**: Опитує кнопку на PA0 (System Button).
 
 ### 🔵Підключення:
-LED2 (PA1): GND → LED → резистор (~325Ω) → PA1
+**LED2 (PA1):** GND → LED → резистор (~325Ω) → PA1
 
-LED1 (PA2): GND → LED → резистор (~325Ω) → PA2
+**LED1 (PA2):** GND → LED → резистор (~325Ω) → PA2
 
-Button (PA0): GND → кнопка → PA0 (з внутрішньою підтяжкою Pull-Up)
+**Button (PA0):** GND → кнопка → PA0 (з внутрішньою підтяжкою Pull-Up)
 
 ### ⁉️Як запустити:
 1. Відкрийте файл `.ioc` у STM32CubeIDE.
